@@ -1,0 +1,11 @@
+site_name: DevOps Operations Handbook
+site_author: Терешин Артем Дмитриевич
+repo_name: teret457/devops-docs
+repo_url: https://github.com/teret457/devops-docs
+theme:
+  name: mkdocs
+  locale: ru
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
